@@ -1,0 +1,18 @@
+dependent_variables:
+- header:
+    names : The fiting parameters values for the inclusive category of q*/QBH
+  values:
+  - value: 3.05674e+00
+  - value: 1.05343e+01
+  - value: 4.15163e+00
+  - value: 1.07405e-01
+independent_variables:
+- header:
+    name: Resonance Mass
+    units:
+  values:
+  - value: P_0
+  - value: P_1
+  - value: P_2
+  - value: P_3
+   
